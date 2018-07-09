@@ -180,7 +180,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.95, y: 4.5, z: -10}
+  m_LocalPosition: {x: 2.95, y: 5.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -215,7 +215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentState: 1
   width: 7
-  height: 6
+  height: 12
   offSet: 25
   tilePrefab: {fileID: 1289542135555760, guid: ab59f07e6b1afe741a6a6f5f5a6cdca6, type: 2}
   DestroyEffect: {fileID: 1017597014051202, guid: 9246eed28f0f6f044af3686969420165,
@@ -227,6 +227,7 @@ MonoBehaviour:
   - {fileID: 1414194791937834, guid: 21026a7ccdd547d438a173b6a008b2b0, type: 2}
   - {fileID: 1137485424632026, guid: 94be85e25df629a40b43f5f66f93915c, type: 2}
   - {fileID: 1364725679938016, guid: 91a35fd579d0ce44b9aa98760626d242, type: 2}
+  currentDot: {fileID: 0}
 --- !u!4 &939772756
 Transform:
   m_ObjectHideFlags: 0

@@ -1,0 +1,834 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-07-08T21:25:23.299-05:00
+  initializedAtString: 2018-07-08T19:54:47.596-05:00
+  entries:
+  - path: .vs\Bit Reboot\v15\.suo
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\.vs\Bit Reboot\v15\.suo
+    projectPath: .vs\Bit Reboot\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\Bit Reboot\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\.vs\Bit Reboot\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Bit Reboot\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\Bit Reboot\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\.vs\Bit Reboot\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Bit Reboot\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Main..unity
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Scenes\Main..unity
+    projectPath: Assets\Scenes\Main..unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Board.cs
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Scripts\Board.cs
+    projectPath: Assets\Scripts\Board.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Dot.cs
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Scripts\Dot.cs
+    projectPath: Assets\Scripts\Dot.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\FindMatches.cs
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Assets\Scripts\FindMatches.cs
+    projectPath: Assets\Scripts\FindMatches.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\3b\3ba67d8574277134993fa83eee55ea9c
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\3b\3ba67d8574277134993fa83eee55ea9c
+    projectPath: Library\metadata\3b\3ba67d8574277134993fa83eee55ea9c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\56\56af64c0f6b69c6438bc53185f5f18a0
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\56\56af64c0f6b69c6438bc53185f5f18a0
+    projectPath: Library\metadata\56\56af64c0f6b69c6438bc53185f5f18a0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d5120985191b274479f57dfe08567724
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\d5\d5120985191b274479f57dfe08567724
+    projectPath: Library\metadata\d5\d5120985191b274479f57dfe08567724
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\TarGZ\GitHub for Unity
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\TarGZ\GitHub
+      for Unity
+    projectPath: Temp\TarGZ\GitHub for Unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-48564b474467a7a4fa6425f709e967e2
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityTempFile-48564b474467a7a4fa6425f709e967e2
+    projectPath: Temp\UnityTempFile-48564b474467a7a4fa6425f709e967e2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4c02235049c6dfc469479493058777ca
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityTempFile-4c02235049c6dfc469479493058777ca
+    projectPath: Temp\UnityTempFile-4c02235049c6dfc469479493058777ca
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6c0f93687154cda4abf1057b9aaeea6c
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityTempFile-6c0f93687154cda4abf1057b9aaeea6c
+    projectPath: Temp\UnityTempFile-6c0f93687154cda4abf1057b9aaeea6c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-84cfaa84dff1bbe4fbecee279f5e4a1a
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityTempFile-84cfaa84dff1bbe4fbecee279f5e4a1a
+    projectPath: Temp\UnityTempFile-84cfaa84dff1bbe4fbecee279f5e4a1a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a0bbe321945243b46b5860674c236675
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityTempFile-a0bbe321945243b46b5860674c236675
+    projectPath: Temp\UnityTempFile-a0bbe321945243b46b5860674c236675
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f8471cc456afd234dab75bfcb1fa9749
+    fullPath: C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\Temp\UnityTempFile-f8471cc456afd234dab75bfcb1fa9749
+    projectPath: Temp\UnityTempFile-f8471cc456afd234dab75bfcb1fa9749
+    originalPath: 
+    status: 1
+    staged: 0
