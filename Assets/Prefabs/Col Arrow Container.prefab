@@ -36,7 +36,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4630894618675508}
   m_Layer: 0
-  m_Name: Col Arrow Container 1
+  m_Name: Col Arrow Container
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

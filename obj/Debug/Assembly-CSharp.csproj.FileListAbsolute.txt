@@ -1,2 +1,0 @@
-C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\wesle\Documents\game dev\bit-reboot\Bit Reboot\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
