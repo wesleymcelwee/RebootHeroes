@@ -129,6 +129,23 @@ public class FindMatches : MonoBehaviour {
         }
     }
 
+    public void MatchPiecesOfColor(string color)
+    {
+        for(int i = 0; i < board.width; i++)
+        {
+            for(int j = 0; j < board.height; j++)
+            {
+                if(board.allDots[i,j] != null)
+                {
+                    if(board.allDots[i,j].tag == color)
+                    {
+                        board.allDots[i,j].GetComponent<Dot>().isMatched = true;
+                    }
+                }
+            }
+        }
+    }
+
     List<GameObject> GetColumnPieces(int column)
     {
         List<GameObject> dots = new List<GameObject>();
@@ -173,7 +190,6 @@ public class FindMatches : MonoBehaviour {
                 board.currentDot.isMatched = false;
                 //decide what kind of bomb to make
                 int typeOfBomb = Random.Range(0, 100);
-                Debug.Log(typeOfBomb);
                 if(typeOfBomb < 50)
                 {
                     //make a row bomb
@@ -187,6 +203,23 @@ public class FindMatches : MonoBehaviour {
             //is the other piece matched
             else if (board.currentDot.otherDot != null)
             {
+                Dot otherDot = board.currentDot.otherDot.GetComponent<Dot>();
+
+                if (otherDot.isMatched)
+                {
+                    otherDot.isMatched = false;
+                    int typeOfBomb = Random.Range(0, 100);
+                    if (typeOfBomb < 50)
+                    {
+                        //make a row bomb
+                        otherDot.MakeRowBomb();
+                    }
+                    else
+                    {
+                        //make a column bomb
+                        otherDot.MakeColumnBomb();
+                    }
+                }
 
             }
         }

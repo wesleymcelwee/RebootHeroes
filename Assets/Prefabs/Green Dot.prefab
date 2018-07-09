@@ -75,13 +75,16 @@ MonoBehaviour:
   targetX: 0
   targetY: 0
   isMatched: 0
+  otherDot: {fileID: 0}
   swipeAngle: 0
   swipeResist: 1
+  isColorBomb: 0
   isColumnBomb: 0
   isRowBomb: 0
   rowArrow: {fileID: 1688496462040176, guid: fbd9047cc111bf6499eae23d1c0af257, type: 2}
   columnArrow: {fileID: 1796132461620578, guid: d160af79250d1f2498fc02358636bff8,
     type: 2}
+  colorBomb: {fileID: 1728473364802298, guid: 362649e160b7ee44b928fb508379e708, type: 2}
 --- !u!212 &212023615306990224
 SpriteRenderer:
   m_ObjectHideFlags: 1

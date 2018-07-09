@@ -26,10 +26,12 @@ public class Dot : MonoBehaviour {
     public float swipeResist = 1f;
 
     [Header("Powerup Stuff")]
+    public bool isColorBomb;
     public bool isColumnBomb;
     public bool isRowBomb;
     public GameObject rowArrow;
     public GameObject columnArrow;
+    public GameObject colorBomb;
 
     // Use this for initialization
     void Start () {
@@ -53,9 +55,9 @@ public class Dot : MonoBehaviour {
     {
         if (Input.GetMouseButtonDown(1))
         {
-            isRowBomb =true;
-            GameObject arrow = Instantiate(rowArrow, transform.position, Quaternion.identity);
-            arrow.transform.parent = this.transform;
+            isColorBomb =true;
+            GameObject color = Instantiate(colorBomb, transform.position, Quaternion.identity);
+            color.transform.parent = this.transform;
             
         }
     }
@@ -110,6 +112,16 @@ public class Dot : MonoBehaviour {
 
     public IEnumerator CheckMoveCo()
     {
+
+        if (isColorBomb)
+        {
+            findMatches.MatchPiecesOfColor(otherDot.tag);
+            isMatched = true;
+        } else if(otherDot.GetComponent<Dot>().isColorBomb)
+        {
+            findMatches.MatchPiecesOfColor(this.gameObject.tag);
+            otherDot.GetComponent<Dot>().isMatched = true;
+        }
         yield return new WaitForSeconds(.5f);
         if(otherDot != null)
         {
